@@ -25,6 +25,7 @@ My Implementation of the Udacity Project Identify Customer Segments as part of t
 │   └── raw
 ├── ~~models~~                   <- No models have been extracted.
 ├── notebooks
+├── submissions 		 <- Zipped versions of the uploaded files for each submission
 ├── ~~src~~                      <- All coding has been done in notebooks.
 └── ~~tests~~                    <- No tests have been done.
 ```
