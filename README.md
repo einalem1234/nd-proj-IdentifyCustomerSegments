@@ -5,9 +5,9 @@ My Implementation of the Udacity Project Identify Customer Segments as part of t
 <!-- first line needs to stay here, otherwise the table is not rendered! -->
 |  |  | 
 | ------------- | ------------- |
-| **Description** | In this project unsupervised learning was used to identify customer segments. < Short description to get an impression why this project was performed. >|
+| **Description** | In this project unsupervised learning was used to identify customer segments. |
 | **Anaconda environment** | < Which environment was used? > |
-| **Data Set** | The data sets have been provided by Arvato through Udacity. It contains one data set with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company. As the data sets ar **proprietary**, they cannot be added to the github repo. |
+| **Data Set** | The data sets have been provided by Arvato through Udacity. It contains one data set with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company. As the data sets are **proprietary**, they cannot be added to the github repo. |
 
 ## Getting Started With This Code
 < What is the first file to be executed? >
